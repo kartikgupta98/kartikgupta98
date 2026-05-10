@@ -1,26 +1,27 @@
-# Hi there, I'm Kartik 👋
+# Hi there! I'm Kartik Gupta 👋
 
-**Bridging the gap between complex AI systems and the next generation of builders.**
+I am an educator and builder deeply passionate about the AI ecosystem. I believe in the power of technology to solve complex problems and the power of teaching to empower the next generation of innovators. 
 
-I am an educator, builder, and former quant researcher currently exploring the frontiers of Agentic AI. My journey has taken me from building algorithmic trading models to designing high-impact technical curriculums. I believe in learning by doing and am incredibly passionate about equipping students with the grit and skills needed to tackle real-world engineering challenges. 
+## 👨‍🏫 About Me
+*   Currently, I'm the **Lead Instructor for AI and Machine Learning** at Newton School of Technology. I recently wrapped up a full-semester Intro to Gen AI course, and I am constantly inspired by the grit and hard work my students show. 
+*   Before shifting my focus entirely to education, I spent time in the fintech space building alphas as a **Quant Researcher** at Graviton Research Capital, using ML to trade stocks and options.
+*   My teaching journey has also taken me through IIT Ropar, MBCIE, and PhysicsWallah. My ultimate goal is to make complex AI architectures accessible and build curriculums that leave a lasting impact.
 
-### 🚀 What I'm Up To
-* **Teaching & Mentoring:** Leading AI and Machine Learning instruction at Newton School of Technology. I recently wrapped up a full-semester Intro to Gen AI course—the hard work and raw grit shown by the cohort was the ultimate payoff. 
-* **Building Autonomous Agents:** Experimenting with multi-agent workflows, autonomous booking systems, and LLM orchestration using tools like LangChain, LangGraph, and n8n.
-* **Local Inference:** Pushing hardware to its limits by running and optimizing heavy models (like Gemma 31B) locally.
-* **Side Quests:** Tinkering with wearable tech, developing mini-programs for Zepp OS, and exploring instructional design frameworks.
+## 🚀 What I'm Tinkering With
+I love getting my hands dirty with new tech, especially when it involves autonomous systems or hardware optimization:
+*   **Agentic AI:** Building and experimenting with multi-agent systems using LangChain, LangGraph, and n8n. I'm actively exploring use cases ranging from automated essay-writing agents to autonomous booking systems.
+*   **Local LLM Inference:** Pushing the limits of local computing on an NVIDIA Pro Blackwell 4000 setup, experimenting with heavy models like Gemma 31b to see what's possible outside the cloud.
+*   **Wearable Tech:** Developing mini-programs for Zepp OS, including a custom tactile tracking app for smartwatches.
 
-### 🛠️ Tech Stack & Tools
-* **AI & Machine Learning:** Large Language Models, Prompt Engineering, Agentic Frameworks (LangChain, LangGraph), Local Inference
-* **Languages & Development:** Python, Zepp OS SDK 
-* **Past Lives:** Quantitative Research, Alpha Generation, ML-driven trading
+## 🛠️ Tech Stack & Focus Areas
+*   **AI/ML:** Python, Generative AI, LangChain, LangGraph, LLM Inference
+*   **Engineering & Automation:** n8n, Zepp OS
+*   **Background:** Quantitative Modeling, Data Science, Instructional Design
 
-### ⏪ A Bit of History
-Before diving full-time into education, I worked as a Quant Researcher at Graviton Research Capital, where I used machine learning to trade stocks and options. My teaching roots run deep, with previous stints at IIT Ropar, MBCIE, and PhysicsWallah. 
-
-### 📫 Let's Connect
-* **LinkedIn:** [Link your profile here]
-* **Twitter/X:** [Link your profile here]
+## ⚡ Beyond the Code
+When I'm not designing curriculums or debugging agents, you might find me exploring the rhythms of South Asian percussion instruments like the Dholak and Khanjira, or unwinding with a cup of moringa hibiscus tea.
 
 ---
-*"The best way to understand a system is to build it, break it, and then teach someone else how it works."*
+*"Waiting for the day I can just put 'Teacher' as my bio... it's a long way I've come, and a long way to go."* 
+
+Let's connect and build something great together!
